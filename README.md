@@ -7,3 +7,4 @@
 [30-Day LeetCoding Challenge - 5 Best Time to Buy and Sell Stock II](https://medium.com/@xyrot94/30-day-leetcoding-challenge-5-d673d0bcd323)  
 [30-Day LeetCoding Challenge - 6 Group Anagrams](https://medium.com/@xyrot94/30-day-leetcoding-challenge-6-d7bdb13b3e9c)  
 [30-Day LeetCoding Challenge - 7 Counting Elements](https://medium.com/@xyrot94/30-day-leetcoding-challenge-7-eec9adc68634)  
+[30-Day LeetCoding Challenge - 8 Middle of Linked List](https://medium.com/@xyrot94/30-day-leetcoding-challenge-8-adf48e329200)
