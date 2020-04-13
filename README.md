@@ -12,3 +12,4 @@
 [30-Day LeetCoding Challenge - 10 Min Stack](https://medium.com/@xyrot94/30-day-leetcoding-challenge-10-7ab9e4cfb4a0)  
 [30-Day LeetCoding Challenge - 11 Diameter of Binary Tree](https://medium.com/@xyrot94/30-day-leetcoding-challenge-11-832989c5ee5c)  
 [30-Day LeetCoding Challenge - 12 Last Stone Weight](https://medium.com/@xyrot94/30-day-leetcoding-challenge-12-5fef3fdb7e16)  
+[30-Day LeetCoding Challenge - 13 Contiguous Array](https://medium.com/@xyrot94/30-day-leetcoding-challenge-13-f096967584de)  
