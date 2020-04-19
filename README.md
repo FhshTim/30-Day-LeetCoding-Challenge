@@ -18,5 +18,7 @@
 [30-Day LeetCoding Challenge - 16 Valid Parenthesis String](https://medium.com/@xyrot94/30-day-leetcoding-challenge-16-964cfa99d615)  
 [30-Day LeetCoding Challenge - 17 Number of Islands](https://medium.com/@xyrot94/30-day-leetcoding-challenge-17-b4a4e76f1d04)  
 [30-Day LeetCoding Challenge - 18 Minimum Path Sum](https://medium.com/@xyrot94/30-day-leetcoding-challenge-18-bc126c50566f)  
+[30-Day LeetCoding Challenge - 19 Search in Rotated Sorted Array](https://medium.com/@xyrot94/30-day-leetcoding-challenge-19-98d88aab15e6)  
+
 
 
