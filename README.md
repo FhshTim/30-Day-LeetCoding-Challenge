@@ -20,6 +20,8 @@
 [30-Day LeetCoding Challenge - 18 Minimum Path Sum](https://medium.com/@xyrot94/30-day-leetcoding-challenge-18-bc126c50566f)  
 [30-Day LeetCoding Challenge - 19 Search in Rotated Sorted Array](https://medium.com/@xyrot94/30-day-leetcoding-challenge-19-98d88aab15e6)  
 [30-Day LeetCoding Challenge - 20 Construct Binary Search Tree from Preorder Traversal](https://medium.com/@xyrot94/30-day-leetcoding-challenge-20-127b8e32e0e8)  
+[30-Day LeetCoding Challenge - 21 Leftmost Column with at Least a One](https://medium.com/@xyrot94/30-day-leetcoding-challenge-21-775b000b2037)  
+
 
 
 
