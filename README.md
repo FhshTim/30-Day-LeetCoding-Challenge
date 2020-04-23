@@ -22,6 +22,8 @@
 [30-Day LeetCoding Challenge - 20 Construct Binary Search Tree from Preorder Traversal](https://medium.com/@xyrot94/30-day-leetcoding-challenge-20-127b8e32e0e8)  
 [30-Day LeetCoding Challenge - 21 Leftmost Column with at Least a One](https://medium.com/@xyrot94/30-day-leetcoding-challenge-21-775b000b2037)  
 [30-Day LeetCoding Challenge - 22 Subarray Sum Equals K](https://medium.com/@xyrot94/30-dayleetcoding-challenge-22-fe322ed0fa43)  
+[30-Day LeetCoding Challenge - 23 Bitwise AND of Numbers Range](https://medium.com/@xyrot94/30-dayleetcoding-challenge-23-6fef0e40024d)  
+
 
 
 
