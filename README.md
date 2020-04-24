@@ -23,6 +23,8 @@
 [30-Day LeetCoding Challenge - 21 Leftmost Column with at Least a One](https://medium.com/@xyrot94/30-day-leetcoding-challenge-21-775b000b2037)  
 [30-Day LeetCoding Challenge - 22 Subarray Sum Equals K](https://medium.com/@xyrot94/30-dayleetcoding-challenge-22-fe322ed0fa43)  
 [30-Day LeetCoding Challenge - 23 Bitwise AND of Numbers Range](https://medium.com/@xyrot94/30-dayleetcoding-challenge-23-6fef0e40024d)  
+[30-Day LeetCoding Challenge - 24 LRU Cache](https://medium.com/@xyrot94/30-dayleetcoding-challenge-24-28b028468408)  
+
 
 
 
