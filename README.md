@@ -26,6 +26,8 @@
 [30-Day LeetCoding Challenge - 24 LRU Cache](https://medium.com/@xyrot94/30-dayleetcoding-challenge-24-28b028468408)  
 [30-Day LeetCoding Challenge - 25 Jump Game](https://medium.com/@xyrot94/30-dayleetcoding-challenge-25-8145ea709619)  
 [30-Day LeetCoding Challenge - 26 Longest Common Subsequence](https://medium.com/@xyrot94/30-dayleetcoding-challenge-26-47ab03e6ca65)  
+[30-Day LeetCoding Challenge - 27 Maximal Square](https://medium.com/@xyrot94/30-dayleetcoding-challenge-27-580b6a9b4956)  
+
 
 
 
