@@ -28,6 +28,8 @@
 [30-Day LeetCoding Challenge - 26 Longest Common Subsequence](https://medium.com/@xyrot94/30-dayleetcoding-challenge-26-47ab03e6ca65)  
 [30-Day LeetCoding Challenge - 27 Maximal Square](https://medium.com/@xyrot94/30-dayleetcoding-challenge-27-580b6a9b4956)  
 [30-Day LeetCoding Challenge - 28 First Unique Number](https://medium.com/@xyrot94/30-dayleetcoding-challenge-28-b188791b0cf7)  
+[30-Day LeetCoding Challenge - 29 Binary Tree Maximum Path Sum](https://medium.com/@xyrot94/30-dayleetcoding-challenge-29-4539c3ca62d9)  
+
 
 
 
