@@ -29,6 +29,8 @@
 [30-Day LeetCoding Challenge - 27 Maximal Square](https://medium.com/@xyrot94/30-dayleetcoding-challenge-27-580b6a9b4956)  
 [30-Day LeetCoding Challenge - 28 First Unique Number](https://medium.com/@xyrot94/30-dayleetcoding-challenge-28-b188791b0cf7)  
 [30-Day LeetCoding Challenge - 29 Binary Tree Maximum Path Sum](https://medium.com/@xyrot94/30-dayleetcoding-challenge-29-4539c3ca62d9)  
+[30-Day LeetCoding Challenge - 30 Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree](https://medium.com/@xyrot94/30-day-leetcoding-challenge-30-993f851a7b40)  
+
 
 
 
